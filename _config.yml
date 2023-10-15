@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  discord: "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdiscord.gg%2FtR4H3d8QSu&data=05%7C01%7Cea554820%40ohio.edu%7Cbfae56061a084effe9eb08dac7dda135%7Cf3308007477c4a70888934611817c55a%7C0%7C0%7C638042051974784348%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zNgX8Z7LVyLlWQtcavnnNpQ%2FtKwsJB%2F1FIupl8eBK%2BA%3D&reserved=0"
   # email: "someone@example.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
