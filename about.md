@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 # Who we are:
-PandA GradS is the official student organization of Ohio University Physics and Astronomy Graduate Students. Join us on Bobcat Connect!
+PandA GradS is the official student organization of Ohio University Physics and Astronomy Graduate Students. Join us today on [Bobcat Connect](https://ohio.campuslabs.com/engage/organization/pandagrads)!
 # Purpose:
 PandA GradS exists to
 1. Provide a supportive community for graduate students
