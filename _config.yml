@@ -22,8 +22,7 @@ author: Ohio University
 navbar-links:
   About: "about"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Department resources: "https://www.ohio.edu/cas/physics-astronomy/graduate"
   # Author's home: "https://deanattali.com"
   Contact: "contact"
 ################
