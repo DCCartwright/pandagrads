@@ -20,11 +20,15 @@ author: Ohio University
 ###############################################
 
 navbar-links:
-  About: "about"
-  Resources:
-    - Department resources: "https://www.ohio.edu/cas/physics-astronomy/graduate"
-  # Author's home: "https://deanattali.com"
+  About us: "about"
+  Resources: "resources"
+    - Graduate program: "https://www.ohio.edu/cas/physics-astronomy/graduate"
+    - Important dates: 
+    - Finances & aid: 
+    - International students: 
+  Gallery: "gallery"
   Contact: "contact"
+  
 ################
 # --- Logo --- #
 ################
