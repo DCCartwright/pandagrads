@@ -23,9 +23,9 @@ navbar-links:
   About us: "about"
   Resources: "resources"
     - Graduate program: "https://www.ohio.edu/cas/physics-astronomy/graduate"
-    - Important dates: 
-    - Finances & aid: 
-    - International students: 
+    - Important dates: "important-dates"
+    - Finances & aid: "finances-aid"
+    - International students: "international"
   Gallery: "gallery"
   Contact: "contact"
   
