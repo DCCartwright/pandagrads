@@ -21,7 +21,7 @@ author: Ohio University
 
 navbar-links:
   About us: "about"
-  Resources: "resources"
+  Resources:
     - Graduate program: "https://www.ohio.edu/cas/physics-astronomy/graduate"
     - Important dates: "important-dates"
     - Finances & aid: "finances-aid"
